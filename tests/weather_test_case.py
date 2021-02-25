@@ -1,6 +1,5 @@
 import os
 from unittest import TestCase
-
 from app import create_app
 
 
